@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-  # Java-Web-App
+  Java-Web-App
 </h1>
 # ABOUT:
 
