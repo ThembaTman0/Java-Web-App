@@ -4,6 +4,9 @@
   Java-Web-App
 </h1>
 
+<div align="center">
+  <img alt="Demo" src="imgs/Web App.png" />
+</div>
 
 # ABOUT:
 
